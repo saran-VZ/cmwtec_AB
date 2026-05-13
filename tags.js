@@ -1,5 +1,5 @@
 module.exports = {
-    ip: "192.168.1.28",
+    ip: "127.0.0.1",
     slot: 0,
     polling_interval: 500,
     tags: {
